@@ -16,17 +16,17 @@ Country Explorer is a web application that allows users to explore data from cou
 1. Clone the repository to your local machine:
    ```bash
    git clone https://github.com/shivanisahu23/Explore-World.git
-Navigate to the project directory:
+2. Navigate to the project directory:
 
-```bash
+bash
 Copy code
-cd contry_explorer
+cd country_explorer
 Open the index.html file in your preferred browser to view the app:
 
-```bash
+bash
 Copy code
 open index.html
-Note: This project uses only vanilla JavaScript, HTML, and CSS, so no additional dependencies or setup steps are required.
+Note: This project uses vanilla JavaScript, HTML, and CSS, so no additional setup is required.
 
 ## Design Decisions
 
