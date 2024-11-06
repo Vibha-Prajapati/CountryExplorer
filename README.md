@@ -15,15 +15,13 @@ Country Explorer is a web application that allows users to explore data from cou
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/shivanisahu23/Explore-World.git
+   git clone https://github.com/Vibha-Prajapati/CountryExplorer.git
 2. Navigate to the project directory:
-
-bash
+   ```bash
 Copy code
 cd country_explorer
-Open the index.html file in your preferred browser to view the app:
-
-bash
+3. Open the index.html file in your preferred browser to view the app:
+    ```bash
 Copy code
 open index.html
 Note: This project uses vanilla JavaScript, HTML, and CSS, so no additional setup is required.
@@ -43,7 +41,7 @@ To ensure the app works as expected, follow these manual testing steps:
 - **Responsiveness Test**: Resize the browser window to check responsiveness on mobile, tablet, and desktop views.
 - **Favorites Feature**: Add countries to favorites, refresh the page to confirm persistence, and check that only five favorites can be saved.
   
-  > **Reporting Issues**: If any browser does not behave as expected, please report it in the repository's [Issues section](https://github.com/shivanisahu23/Explore-World/issues).
+  > **Reporting Issues**: If any browser does not behave as expected, please report it in the repository's [Issues section](https://github.com//issues).
 
 ## Known Issues & Limitations
 
