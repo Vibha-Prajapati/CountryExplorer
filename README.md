@@ -18,12 +18,12 @@ Country Explorer is a web application that allows users to explore data from cou
    git clone https://github.com/Vibha-Prajapati/CountryExplorer.git
 2. Navigate to the project directory:
    ```bash
-Copy code
-cd country_explorer
+  Copy code
+  cd country_explorer
 3. Open the index.html file in your preferred browser to view the app:
     ```bash
-Copy code
-open index.html
+    Copy code
+    open index.html
 Note: This project uses vanilla JavaScript, HTML, and CSS, so no additional setup is required.
 
 ## Design Decisions
