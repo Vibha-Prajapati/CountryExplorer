@@ -27,6 +27,7 @@ Open the index.html file in your preferred browser to view the app:
 Copy code
 open index.html
 Note: This project uses only vanilla JavaScript, HTML, and CSS, so no additional dependencies or setup steps are required.
+
 ## Design Decisions
 
 - **Favorites Feature**: Allows users to save up to five countries in local storage, preserving their selections across page refreshes.
