@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Country Explorer</title>
+    <link rel="stylesheet" href="country.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Country Explorer</h1>
+            <div class="search-bar">
+                <input type="text" id="search-input" placeholder="Search for a country...">
+            </div>
+            <div class="filters">
+                <select id="region-filter">
+                    <option value="">Select Region</option>
+                    <option value="Africa">Africa</option>
+                    <option value="Americas">Americas</option>
+                    <option value="Asia">Asia</option>
+                    <option value="Europe">Europe</option>
+                    <option value="Oceania">Oceania</option>
+                </select>
+                <select id="language-filter">
+                    <option value="">Select Language</option>
+                    <option value="English">English</option>
+                    <option value="Spanish">Spanish</option>
+                    <option value="French">French</option>
+                    <option value="Arabic">Arabic</option>
+                    <!-- We can add more languages here -->
+                </select>
+            </div>
+        </header>
+
+        <main>
+            <div id="country-list" class="country-list"></div>
+            <button id="show-more-btn">Show More</button>
+        </main>
+
+        <aside id="favorites-section" class="favorites-section">
+            <h3>Favorites</h3>
+            <div id="favorites-list"></div>
+        </aside>
+
+        <div id="country-details" class="country-details">
+            <div class="details-content">
+                <button onclick="closeDetails()">Close</button>
+                <h2 id="country-name"></h2>
+                <img id="country-flag" alt="Country Flag">
+                <p id="country-domain"></p>
+                <p id="country-capital"></p>
+                <p id="country-population"></p>
+                <p id="country-area"></p>
+                <p id="country-languages"></p>
+            </div>
+        </div>
+    </div>
+    
+    <script src="country.js"></script>
+</body>
+</html>
