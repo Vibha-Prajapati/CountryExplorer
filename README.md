@@ -41,7 +41,7 @@ To ensure the app works as expected, follow these manual testing steps:
 - **Responsiveness Test**: Resize the browser window to check responsiveness on mobile, tablet, and desktop views.
 - **Favorites Feature**: Add countries to favorites, refresh the page to confirm persistence, and check that only five favorites can be saved.
   
-  > **Reporting Issues**: If any browser does not behave as expected, please report it in the repository's [Issues section](https://github.com//issues).
+  > **Reporting Issues**: If any browser does not behave as expected, please report it in the repository's [Issues section](https://github.com/Vibha-Prajapati/CountryExplorer/issues).
 
 ## Known Issues & Limitations
 
