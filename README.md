@@ -15,7 +15,7 @@ To run the project locally:
 Clone the repository to your local machine:
 bash
 Copy code
-git clone https://shivanisahu23.github.io/Explore-World/
+git clone 
 Navigate to the project directory:
 bash
 Copy code
